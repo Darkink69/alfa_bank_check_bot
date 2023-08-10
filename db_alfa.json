@@ -1,0 +1,70 @@
+[
+  {
+    "alfa_rate": [
+      {
+        "last_date": "24.07.2023",
+        "rate": [
+          "9,50",
+          "0,01",
+          "0,01",
+          "3,55"
+        ],
+        "url_pdf": "https://alfabank.servicecdn.ru/site-upload/0b/10/2363/deposits_alfa_24072023.pdf"
+      },
+      {
+        "last_date": "27.07.2023",
+        "rate": [
+          "9,50",
+          "0,01",
+          "0,01",
+          "4,00"
+        ],
+        "url_pdf": "https://alfabank.servicecdn.ru/site-upload/0b/10/2363/deposits_alfa_27072023.pdf"
+      },
+      {
+        "last_date": "31.07.2020",
+        "rate": [
+          "9,50",
+          "0,01",
+          "0,01",
+          "4,00"
+        ],
+        "url_pdf": "https://alfabank.servicecdn.ru/site-upload/cf/15/2363/deposits_alfa_31072023.pdf"
+      },
+      {
+        "last_date": "31.07.2023",
+        "rate": [
+          "9,50",
+          "0,01",
+          "0,01",
+          "4,00"
+        ],
+        "url_pdf": "https://alfabank.servicecdn.ru/site-upload/cf/15/2363/deposits_alfa_31072023.pdf"
+      }
+    ]
+  },
+  {
+    "alfa_savings_account": [
+      {
+        "last_date": "01.06.2023",
+        "rate": [
+          "7,5",
+          "9",
+          "7,5",
+          "7,5"
+        ],
+        "url_pdf": "https://alfabank.servicecdn.ru/site-upload/e1/3f/2363/alfa_01062023.pdf"
+      },
+      {
+        "last_date": "01.08.2023",
+        "rate": [
+          "7,5",
+          "10",
+          "7,5",
+          "7,5"
+        ],
+        "url_pdf": "https://alfabank.servicecdn.ru/site-upload/1b/07/2363/alfa_01082023.pdf"
+      }
+    ]
+  }
+]
